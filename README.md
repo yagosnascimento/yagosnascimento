@@ -2,13 +2,6 @@
   <h1 align="center">Olá, sou Yago Nascimento.</h1>
   <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas (ADS)</h3>
   <br/>
-  
-  <a href="https://linkedin.com/in/yagosnascimento" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.youtube.com/c/ikripto" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
-</div>
 
 <br/>
 
