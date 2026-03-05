@@ -6,9 +6,9 @@
 <br/>
 
 ## Sobre Mim
-Atualmente trabalho no **Hub Inova FEMA** com **Realidade Virtual** e **Modelagem/Impressão 3D**.
-No momento estou aprofundando meus conhecimentos em **.NET (C#)**, **Python** e **Arquitetura de Software**.
-Tenho interesse em desenvolvimento de Games (Unity), Automação, Sistemas Web e Modelagem e Impressão 3D.
+Atualmente trabalho no **Hub Inova FEMA** com **Realidade Virtual**, **Modelagem/Impressão 3D** e **Desenvolvimento com Laravel**.
+Sempre aprofundando meus conhecimentos em **Desenvolvimento** e **Arquitetura de Software**.
+Meus hobbys são desenvolvimento de **Games (Unity)**, **Automação**, **Sistemas Web** e **Modelagem e Impressão 3D**.
 Análise e Desenvolvimento de Sistemas.
 
 
