@@ -17,7 +17,7 @@ Análise e Desenvolvimento de Sistemas.
 ## Tech Stack & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,dotnet,angular,react,laravel&perline=9" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=spring,python,dotnet,angular,react,laravel&perline=9" alt="Languages" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=unity,blender,git,github,postgres&perline=9" alt="Tools" />
 </div>
