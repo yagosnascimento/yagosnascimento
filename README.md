@@ -2,7 +2,6 @@
   <h1 align="center">Olá, sou Yago Nascimento.</h1>
   <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas (ADS)</h3>
   <br/>
-
 <br/>
 
 ## Sobre Mim
@@ -27,14 +26,8 @@ Análise e Desenvolvimento de Sistemas.
 ## Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yagosnascimento&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true" alt="" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagosnascimento&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagosnascimento&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
-<br/>
-
-<div align="center">
-  <br/>
 
 <div align="center">
   <picture>
