@@ -5,7 +5,7 @@
 <br/>
 
 ## Sobre Mim
-Atualmente trabalho no **Hub Inova FEMA** com **Realidade Virtual**, **Modelagem/Impressão 3D** e **Desenvolvimento com Laravel**.
+Atualmente trabalho no **Hub Inova FEMA** com **Realidade Virtual**, **Modelagem/Impressão 3D** e **Desenvolvimento**.
 Sempre aprofundando meus conhecimentos em **Desenvolvimento** e **Arquitetura de Software**.
 Meus hobbys são desenvolvimento de **Games (Unity)**, **Automação**, **Sistemas Web** e **Modelagem e Impressão 3D**.
 Análise e Desenvolvimento de Sistemas.
