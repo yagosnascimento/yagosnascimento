@@ -10,6 +10,10 @@ Sempre aprofundando meus conhecimentos em **Desenvolvimento** e **Arquitetura de
 Meus hobbys são desenvolvimento de **Games (Unity)**, **Automação**, **Sistemas Web** e **Modelagem e Impressão 3D**.
 Análise e Desenvolvimento de Sistemas.
 
+<div align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width=50 https://www.youtube.com/@iKripto>
+</div>
+
 
 <br/>
 
