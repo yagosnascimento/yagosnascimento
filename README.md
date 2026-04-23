@@ -1,43 +1,80 @@
 <div align="center">
-  <h1 align="center">Olá, sou Yago Nascimento.</h1>
-  <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas (ADS)</h3>
+  <img src="https://i.pinimg.com/originals/a0/01/cc/a001ccf919fc25b82c6a4fb64bc25db5.gif" alt="Banner animado" width="100%" />
   <br/>
+  <br/>
+  <h1>Olá, sou Yago Nascimento! 👋</h1>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Estudante%20de%20ADS-blueviolet?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foco-Dev-success?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Local-Assis,%20SP-orange?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</div>
+
 <br/>
- 
+
+<div align="center">
+  <a href="https://www.youtube.com/@iKripto">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:usuarioqualquer644@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yagosnascimento">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
 ## Sobre Mim
-Atualmente trabalho no **Hub Inova FEMA** com **Realidade Virtual**, **Modelagem/Impressão 3D** e **Desenvolvimento**.
-Sempre aprofundando meus conhecimentos em **Desenvolvimento** e **Arquitetura de Software**.
-Meus hobbys são desenvolvimento de **Games (Unity)**, **Automação**, **Sistemas Web** e **Modelagem e Impressão 3D**.
-Análise e Desenvolvimento de Sistemas.
 
-<a href="https://www.youtube.com/@iKripto" align="center">
-    <img  width=40 src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
-</a>
+Sou um entusiasta de tecnologia e atualmente estudo **Análise e Desenvolvimento de Sistemas**. Meu dia a dia envolve transformar ideias em realidade física e digital através de:
 
+- **Hub Inova FEMA**: Atuando com Realidade Virtual e Desenvolvimento.
+- **3D Expert**: Modelagem e Impressão 3D (Blender & Prototipagem).
+- **Game Dev**: Criando experiências interativas com Unity.
 
-<br/>
+---
 
 ## Tech Stack & Ferramentas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,python,dotnet,angular,react,laravel&perline=9" alt="Languages" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=unity,blender,git,github,postgres&perline=9" alt="Tools" />
+### Desenvolvimento & Frameworks
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,python,laravel,angular,react,ts&perline=8" />
+</div>
+
+### Design, 3D & Ferramentas
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=unity,blender,docker,postgres,git,github,vscode&perline=8" />
 </div>
 
 <br/>
 
-## Estatísticas
+---
+
+## Estatísticas e Atividade
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagosnascimento&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yagosnascimento&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagosnascimento&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<br/>
+
+### My GitHub Journey
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikripto/ikripto/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikripto/ikripto/output/snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ikripto/ikripto/output/snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yagosnascimento/yagosnascimento/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yagosnascimento/yagosnascimento/output/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yagosnascimento/yagosnascimento/output/snake.svg">
   </picture>
 </div>
 
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
+
+<div align="center">
+  <sub>Copyright © 2026 Yago S. Nascimento. Feito com muito código.</sub>
+</div>
