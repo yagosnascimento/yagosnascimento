@@ -1,9 +1,6 @@
 <div align="center">
 <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving" width="45" align="center" />
-    Olá, sou Yago Nascimento!
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="45" align="center" />
-  </h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Yago%20%20Nascimento&section=header&reversal=true">
 </div>
 
 <div align="center">
