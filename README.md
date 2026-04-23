@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/a0/01/cc/a001ccf919fc25b82c6a4fb64bc25db5.gif" alt="Banner animado" width="100%" />
-  <br/>
-  <br/>
-  <h1>Olá, sou Yago Nascimento! 👋</h1>
+<h1>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving" width="45" align="center" />
+    Olá, sou Yago Nascimento!
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="45" align="center" />
+  </h1>
 </div>
 
 <div align="center">
