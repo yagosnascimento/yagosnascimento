@@ -11,22 +11,6 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://www.youtube.com/@iKripto">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</div>
-
-## Sobre Mim
-
-Sou um entusiasta de tecnologia e atualmente estudo **Análise e Desenvolvimento de Sistemas**. Meu dia a dia envolve transformar ideias em realidade física e digital através de:
-
-- **Hub Inova FEMA**: Atuando com Realidade Virtual e Desenvolvimento.
-- **3D Expert**: Modelagem e Impressão 3D (Blender & Prototipagem).
-- **Game Dev**: Criando experiências interativas com Unity.
-
----
-
 ## Tech Stack & Ferramentas
 
 ### Desenvolvimento & Frameworks
