@@ -12,7 +12,7 @@
 
 ### Desenvolvimento & Frameworks
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,python,laravel,angular,react,ts&perline=8" />
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,python,laravel,angular,react&perline=8" />
 </div>
 
 ### Design, 3D & Ferramentas
